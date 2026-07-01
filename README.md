@@ -1,6 +1,6 @@
 # DevSetup
 
-## Description
+# Description
 
 DevSetup est mon premier projet de configuration d'un
 environnement de développement sur Git & Github.
@@ -15,7 +15,7 @@ du développement moderne :
 - Node.js
 - Terminal
 
-## Objectifs
+# Objectifs
 
 - Installer et configurer Git
 - Installer Node.js
@@ -24,7 +24,7 @@ du développement moderne :
 - Comprendre les bases du terminal
 - Créer un premier dépôt GitHub
 
-## Structure du projet
+# Structure du projet
 
 DevSetup/README.md
 DevSetup/.gitignore
@@ -33,13 +33,17 @@ DevSetup/notes/git.md
 DevSetup/notes/markdown.md
 DevSetup/notes/terminal.md
 
-## Outils utilisés
+# Outils utilisés
 
 - Visual Studio Code
 - Git
 - GitHub
 - Node.js
 
-## Auteur
+# Dev branch test
+
+Cette section a été ajoutée dans la branche dev.
+
+# Auteur
 
 Patrice Andréa NGOULOU-NGOULOU ILOKI
