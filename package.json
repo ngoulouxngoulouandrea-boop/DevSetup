@@ -1,0 +1,24 @@
+{
+  "name": "devsetup",
+  "version": "1.0.0",
+  "description": "DevSetup est mon premier projet de configuration d'un\r environnement de développement sur Git & Github.",
+  "main": "index.js",
+  "scripts": {
+  "dev": "nodemon index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngoulouxngoulouandrea-boop/DevSetup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ngoulouxngoulouandrea-boop/DevSetup/issues"
+  },
+  "homepage": "https://github.com/ngoulouxngoulouandrea-boop/DevSetup#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
