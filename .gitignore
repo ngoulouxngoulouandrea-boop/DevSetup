@@ -1,0 +1,25 @@
+#Le fichier .gitignore indique à Git ce qu'il doit ignorer.
+#Git ne doit pas enregistrer certains fichiers :
+
+#-fichiers temporaires ;
+#-dossiers générés automatiquement ;
+#-dépendances ;
+#f-ichiers de configuration personnels.
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Variables d'environnement
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
