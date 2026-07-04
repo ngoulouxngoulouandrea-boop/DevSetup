@@ -1,49 +1,54 @@
 # DevSetup
 
-# Description
+## Description
 
-DevSetup est mon premier projet de configuration d'un
-environnement de développement sur Git & Github.
+DevSetup est un projet d’apprentissage de l’environnement de développement web. Il présente la configuration de Git, GitHub, Visual Studio Code, Node.js et les commandes de base du terminal.
 
-Il a été réalisé dans le cadre de ma formation à Akieni
-academy afin d'apprendre à utiliser les principaux outils
-du développement moderne :
+## Contenu
 
-- Visual Studio Code
+- `index.js` : script d’initialisation simple.
+- `package.json` : configuration du projet Node.js.
+- `README.md` : documentation du projet.
+- `notes/` : notes sur Git, Markdown et le terminal.
+  - `git.md`
+  - `markdown.md`
+  - `terminal.md`
+
+## Installation
+
+1. Installer Node.js si nécessaire.
+2. Ouvrir un terminal dans le dossier `DevSetup`.
+3. Exécuter :
+
+```bash
+npm install
+```
+
+## Exécution
+
+Lancer le projet en mode développement :
+
+```bash
+npm run dev
+```
+
+## Objectifs
+
+- Installer et configurer Git.
+- Installer Node.js.
+- Configurer Visual Studio Code.
+- Apprendre les commandes Git essentielles.
+- Comprendre les bases du terminal.
+- Créer un premier dépôt GitHub.
+
+## Outils utilisés
+
+- Node.js
+- Nodemon
 - Git
 - GitHub
-- Node.js
-- Terminal
-
-# Objectifs
-
-- Installer et configurer Git
-- Installer Node.js
-- Configurer Visual Studio Code
-- Apprendre les commandes Git essentielles
-- Comprendre les bases du terminal
-- Créer un premier dépôt GitHub
-
-# Structure du projet
-
-DevSetup/README.md
-DevSetup/.gitignore
-
-DevSetup/notes/git.md
-DevSetup/notes/markdown.md
-DevSetup/notes/terminal.md
-
-# Outils utilisés
-
 - Visual Studio Code
-- Git
-- GitHub
-- Node.js
 
-# Dev branch test
-
-Cette section a été ajoutée dans la branche dev.
-
-# Auteur
+## Auteur
 
 Patrice Andréa NGOULOU-NGOULOU ILOKI
